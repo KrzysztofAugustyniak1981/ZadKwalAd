@@ -60,7 +60,7 @@
 }
 .list {
     text-decoration: none;
-    width: 27px;
+    
     height: 24px;
     font-family: 'Khula';
     font-style: normal;
@@ -123,11 +123,11 @@
     align-items: flex-start;
     padding: 0px;
     gap: 24px;
-    width: 434px;
+    width: 100%;
     height: 294px;
 }
 .Awesome {
-    width: 434px;
+    width: 100%;
     height: 198px;
     font-family: 'Karla';
     font-style: normal;
@@ -143,7 +143,7 @@
     align-items: flex-start;
     padding: 0px;
     gap: 10px;
-    width: 434px;
+    width: 100%;
     height: 72px;
 }
 .Realm {
@@ -243,7 +243,7 @@
     align-items: center;
     padding: 0px;
     gap: 48px;
-    width: 1110px;
+    width: auto;
     height: 1055px;
 }
 .Frame363 {
@@ -252,7 +252,7 @@
     align-items: center;
     padding: 0px;
     gap: 48px;
-    width: 1110px;
+    width: auto;
     height: 275px;
 }
 .Header {
@@ -261,7 +261,7 @@
     align-items: flex-start;
     padding: 0px;
     gap: 32px;
-    width: 1110px;
+    width: auto;
     height: 173px;
 }
 .Frame361 {
@@ -269,7 +269,6 @@
     flex-direction: column;
     align-items: center;
     padding: 0px;
-    width: 1110px;
     height: 117px;
     flex: none;
     order: 0;
@@ -308,7 +307,7 @@
     flex-grow: 0;
 }
 .AllPackges {
-    width: 1110px;
+    width: auto;
     height: 24px;
     font-family: 'Khula';
     font-style: normal;
@@ -382,7 +381,7 @@
     align-items: center;
     padding: 0px;
     gap: 32px;
-    width: 1110px;
+    width: auto;
     height: 732px;
 }
 .Tables {
@@ -391,7 +390,7 @@
     align-items: flex-start;
     padding: 0px;
     gap: 24px;
-    width: 1110px;
+    width: auto;
     height: 679px;
 }
 .PricingTables1 {
@@ -498,18 +497,12 @@
 .SingleDomain{
     width: 210px;
     height: 24px;
-    
-    /* Body */
     font-family: 'Khula';
     font-style: normal;
     font-weight: 400;
     font-size: 16px;
     line-height: 150%;
-    
-    /* identical to box height, or 24px */
     text-decoration-line: none;
-    
-    /* Background/Black */
     color: #1D1D1B;
 }
 .Btn {
@@ -669,3 +662,134 @@ footer {
     line-height: 24px;
     color: #807E7E;
 }
+
+@media only screen and (max-width: 768px) {
+.HeroBlock {
+    max-width: 768px;
+    height: auto;
+}
+#ComponentOne {
+    width: 768px;
+}
+#GroupOneTwoNine {
+    left: 30px;
+}
+.Items {
+    left: 180px;
+    gap: 5px;
+    width: 375px;
+}
+.actionsBlock {
+    width: 768px;
+    height: auto;
+}
+.container1 {
+    width: 768px;
+    gap: 0px;
+    height: auto;
+}
+.Frame54 {
+    width: 307px;
+    padding: 0px 0px 11px;
+    gap: 6px;
+}
+.Frame53 {
+    gap: 0px;
+    padding: 8px;
+}
+.Frame1180 {
+    width: 100%;
+}
+.Awesome {
+    font-size: 30px;
+    height: 100px;
+}
+.Realm {
+    font-size: 14px;
+}
+.Gallery {
+    width: 461px;
+    gap: 0px;
+    height: auto;
+}
+svg {
+    width: 85%;
+    height: 85%;
+}
+.Frame3485, .Frame3486{
+    height: auto;
+    gap: 10px;
+}
+.Btns {
+    padding: 8px;
+}
+.Pricing3 {
+    width: auto;
+    padding: 16px;
+}
+.Pricing {
+    width: auto;
+}
+.MakeItYours {
+    width: auto;
+    font-size: 48px;
+}
+.Frame364 {
+    width: auto;
+}
+.PricingTables2, .PricingTables1 {
+    gap: 2px;
+    width: 230px;
+    padding: 16px;
+}
+.Amount {
+    width: auto;
+    font-size: 30px;
+}
+.Frame5 {
+    width: auto;
+    height: auto;
+    padding-top: 12px;
+}
+.Features {
+    height: auto;
+    width: auto;
+}
+.Btn {
+    width: auto;
+    margin: auto;
+    padding: 2px 24px;
+    gap: 2px;
+}
+.Frame3829, .Frame3830 {
+    width: auto;
+}
+.Feature1 {
+    width: 194px;
+}
+.Tables {
+    gap: 12px;
+}
+.HeadersBlock, .Frame2307 {
+    padding: 0px 0px 0px 20px;
+    width: 768px;
+}
+.GalleryBlock {
+    padding: 0px 0px 25px 0px;
+    gap: 0px;
+    width: 768px;
+    height: auto;
+}
+footer {
+    width: 768px;
+    margin: 0px;
+}
+.FooterContent {
+    width: 768px;
+    left: 24px;
+    top: 36px;
+}
+.FooterLinks {
+    width: 320px;
+    right: 12px;
+}}
