@@ -1,0 +1,671 @@
+.HeroBlock {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: 0px;
+  max-width: 1440px;
+  height: 825px;
+  background: #ffffff;
+}
+
+#ComponentOne {
+    height: 88px;
+    width: 1440px;
+    left: 0px;
+    top: 0px;
+    border-radius: 0px;
+    background: #ffffff;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+
+#GroupOneTwoNine {
+    position: absolute;
+    width: 100px;
+    height: 20.17;
+    left: 165px;
+    top: 33.53px;
+}
+.Items {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+    position: absolute;
+    width: 543px;
+    height: 24px;
+    left: 732px;
+    top: 32px;
+}
+.dropdown {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 48px;
+    width: 419px;
+    height: 24px;
+    flex: none;
+    order: 0;
+    flex-grow: 0;
+}
+.dropdown-menu {
+    padding: 0px;
+    gap: 10px;
+    width: 44px;
+    height: 24px;
+}
+.list {
+    text-decoration: none;
+    width: 27px;
+    height: 24px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    color: #1D1D1B;
+}
+
+.Icons {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 24px;
+    
+    width: 72px;
+    height: 24px;
+}
+.actionsBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    width: 1440px;
+    height: 737px;
+    background: #FFFFFF;
+}
+.container1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 64px;
+    width: 1264px;
+    height: 737px;
+}
+.Frame54 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px 0px 88px;
+    gap: 56px;
+    width: 434px;
+    height: 486px;
+}
+.Frame1180 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 40px;
+    align-self: stretch;
+    width: 434px;
+    height: 294px;
+}
+.Frame53 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    width: 434px;
+    height: 294px;
+}
+.Awesome {
+    width: 434px;
+    height: 198px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 90px;
+    line-height: 110%;
+    letter-spacing: -0.9px;
+    color: #1D1D1B;
+}
+.Frame3468 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 10px;
+    width: 434px;
+    height: 72px;
+}
+.Realm {
+    width: 434px;
+    height: 72px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    color: #1D1D1B;
+}
+.Btns {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 35px;
+    width: 310px;
+    height: 48px;
+}
+.ButtonVariant {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 8px 47px;
+    gap: 10px;
+    width: 153px;
+    height: 48px;
+    background: #EF7925;
+    border-radius: 3px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+}
+.LinkBtnVariant {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 4px;
+    width: 122px;
+    height: 32px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 17px;
+    line-height: 32px;
+    color: #EF7925;
+    background-color: #FFFFFF;
+    border: none;
+}
+.Gallery {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 64px;
+    width: 854px;
+    height: 737px;
+}
+.Frame3485 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 64px;
+    width: 434px;
+    height: 737px;
+}
+.Frame3486 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 64px;
+    width: 356px;
+    height: 737px;
+}
+.Pricing3 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 0px;
+    width: 1440px;
+    height: 1215px;
+    background: #FFFFFF;
+}
+.Content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 48px;
+    width: 1110px;
+    height: 1055px;
+}
+.Frame363 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 48px;
+    width: 1110px;
+    height: 275px;
+}
+.Header {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+    width: 1110px;
+    height: 173px;
+}
+.Frame361 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    width: 1110px;
+    height: 117px;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.Pricing {
+    width: 1110px;
+    height: 43px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 28.5px;
+    line-height: 150%;
+    text-align: center;
+    color: #EF7925;
+    flex: none;
+    order: 0;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.MakeItYours {
+    width: 1110px;
+    height: 74px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 67.5px;
+    line-height: 110%;
+    text-align: center;
+    letter-spacing: -0.7px;
+    color: #1D1D1B;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.AllPackges {
+    width: 1110px;
+    height: 24px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    text-align: center;
+    text-decoration-line: none;
+    color: #1D1D1B;
+    flex: none;
+    order: 1;
+    align-self: stretch;
+    flex-grow: 0;
+}
+.Frame3828 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 4px;
+    width: 214px;
+    height: 54px;
+    border: 1px solid #EDEDED;
+    border-radius: 1000px;
+}
+.Frame3826 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 24px;
+    gap: 10px;
+    width: 112px;
+    height: 46px;
+    background: #EF7925;
+    border-radius: 1000px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #FFFFFF;
+    border: none;
+}
+.Label3828 {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 16px 24px;
+    gap: 10px;
+    width: 94px;
+    height: 46px;
+    border-radius: 1000px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 100%;
+    text-align: center;
+    letter-spacing: 0.02em;
+    text-transform: uppercase;
+    color: #1D1D1B;
+    border: none;
+    background: none;
+}
+.Frame364 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 32px;
+    width: 1110px;
+    height: 732px;
+}
+.Tables {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 24px;
+    width: 1110px;
+    height: 679px;
+}
+.PricingTables1 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 48px;
+    gap: 40px;
+    width: 354px;
+    height: 679px;
+    background: #FFFFFF;
+    border: 1px solid #EDEDED;
+    border-radius: 12px;
+}
+.PricingTables2 {
+    box-sizing: border-box;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 48px;
+    gap: 40px;
+    width: 354px;
+    height: 679px;
+    background: #F8F8F8;
+    border: 1px solid #EDEDED;
+    border-radius: 12px;
+}
+.Frame3829 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 8px;
+    width: 263px;
+    height: 119px;
+}
+.TitleF3829 {
+    width: 64px;
+    height: 32px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21.5px;
+    line-height: 150%;
+    color: #1D1D1B;
+}
+.Frame3830 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    width: 263px;
+    height: 79px;
+}
+.Amount {
+    width: 263px;
+    height: 58px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 50.5px;
+    line-height: 115%;
+    letter-spacing: -0.4px;
+    color: #1D1D1B;
+}
+.Duration {
+    width: 132px;
+    height: 21px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    color: #1D1D1B;
+}
+.Frame5 {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 0px;
+    gap: 72px;
+    width: 258px;
+    height: 424px;
+}
+.Features {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    width: 258px;
+    height: 304px;
+}
+.Feature1 {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding: 0px;
+    gap: 16px;
+    width: 242px;
+    height: 24px;
+}
+.SingleDomain{
+    width: 210px;
+    height: 24px;
+    
+    /* Body */
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 150%;
+    
+    /* identical to box height, or 24px */
+    text-decoration-line: none;
+    
+    /* Background/Black */
+    color: #1D1D1B;
+}
+.Btn {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    padding: 8px 47px;
+    gap: 10px;
+    width: 258px;
+    height: 48px;
+    background: #EF7925;
+    border-radius: 3px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 18px;
+    line-height: 32px;
+    text-align: center;
+    color: #FFFFFF;
+    border: none;
+}
+.PriceAbove {
+    width: 195px;
+    height: 21px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 150%;
+    text-align: center;
+    color: #323232;
+}
+.HeadersBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 0px 0px;
+    gap: 16px;
+    width: 1440px;
+    height: 162px;
+    background: #FFFFFF;
+}
+.Frame2307 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 16px;
+    width: 1264px;
+    height: 82px;
+}
+.Tagline {
+    width: 134px;
+    height: 32px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21.5px;
+    line-height: 150%;
+    text-align: center;
+    color: #EF7925;
+}
+.Frame2302 {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    padding: 0px;
+    gap: 32px;
+    width: 434px;
+    height: 34px;
+}
+.StayUpdated {
+    width: 434px;
+    height: 34px;
+    font-family: 'Karla';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 28.5px;
+    line-height: 120%;
+    color: #1D1D1B;
+}
+.GalleryBlock {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 80px 0px;
+    gap: 48px;
+    
+    width: 1440px;
+    height: 678px;
+    
+    background: #FFFFFF;
+}
+footer {
+    width: 1440px;
+    height: 304px;
+    
+    /* Black/900 */
+    background: #121212;
+    
+    /* Inside auto layout */
+    flex: none;
+    order: 4;
+    flex-grow: 0;
+}
+.FooterContent {
+    position: relative;
+    display: flex;
+    height: 24px;
+    width: 1110px;
+    left: 165px;
+    top: 56px;
+    border-radius: 0px;
+    
+}
+.Group129 {
+    position: relative;
+    width: 100px;
+    height: 20.17px;
+    left: 0px;
+    top: -0.46px;   
+}
+.FooterLinks {
+    position: absolute;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 56px;
+    right: 0px;
+    top: 0px;
+    width: 359px;
+    height: 24px;
+}
+.FooterLink {
+    text-decoration: none;
+    width: 27px;
+    height: 24px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 600;
+    font-size: 14px;
+    line-height: 24px;
+    text-align: center;
+    color: #FFFFFF;
+}
+.Fabrix {
+    position: absolute;
+    width: 83px;
+    height: 24px;
+    left: 0px;
+    bottom: -184px;
+    font-family: 'Khula';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 24px;
+    color: #807E7E;
+}

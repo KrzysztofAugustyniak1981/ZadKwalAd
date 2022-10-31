@@ -1,0 +1,15 @@
+{
+  "name": "adrespect",
+  "version": "1.0.0",
+  "description": "Zadanie kwalifikacyjne",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Krzysztof Augustyniak",
+  "license": "ISC",
+  "dependencies": {
+    "@popperjs/core": "^2.11.6",
+    "bootstrap": "^5.2.2"
+  }
+}
